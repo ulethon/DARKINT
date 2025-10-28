@@ -1,3 +1,17 @@
+<h1 align="center">🕵️ Hacking & Exploit & Crack Forums</h1>
+<h2>🧠 Purpose</h2>
+<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+<h2>📋 Forums List</h2>
+<table>
+  <thead>
+    <tr>
+      <th align="left">🌐 Service</th>
+      <th align="left">🔗 Onion Link</th>
+      <th align="center">📡 Status</th>
+      <th align="left">📌 Description</th>
+    </tr>
+  </thead>
+  <tbody>
 <tr><td>ROOTSPLOIT</td><td><code>https://rootsploit.org/</code></td><td align="center">200</td><td>Exploit & security research forum</td></tr>
 <tr><td>REVERSING</td><td><code>Crack from Reversing Center</code></td><td align="center">200</td><td>Reverse engineering / cracking</td></tr>
 <tr><td>Cracked</td><td><code>https://cracked.sh/</code></td><td align="center">200</td><td>Cracking / leaks</td></tr>
@@ -31,3 +45,9 @@
 <tr><td>Hard TM</td><td><code>https://hard-tm.su/</code></td><td align="center">200</td><td>Cheating / hacking forum</td></tr>
 <tr><td>Gerki (forum)</td><td><code>https://forum.gerki.ws/</code></td><td align="center"></td><td>General / hacking</td></tr>
 <tr><td>xforums</td><td><code>https://xforums.st/</code></td><td align="center"></td><td>General / hacking threads</td></tr>
+  </tbody>
+</table>
+
+<h2>📦 About the Contributor</h2>
+<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
+
