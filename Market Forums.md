@@ -1,3 +1,17 @@
+<h1 align="center">🕵️ Market & Trade & Account Forums</h1>
+<h2>🧠 Purpose</h2>
+<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+<h2>📋 Forums List</h2>
+<table>
+  <thead>
+    <tr>
+      <th align="left">🌐 Service</th>
+      <th align="left">🔗 Onion Link</th>
+      <th align="center">📡 Status</th>
+      <th align="left">📌 Description</th>
+    </tr>
+  </thead>
+  <tbody>
 <tr><td>Legitcarder</td><td><code>Legitcarders.ws</code></td><td align="center">200</td><td>Carding / account trading</td></tr>
 <tr><td>BHC Forums</td><td><code>Bhcforums.cc</code></td><td align="center">200</td><td>Carding / hacking forum</td></tr>
 <tr><td>ProCrd</td><td><code>ProCrd - Carding forum</code></td><td align="center">200</td><td>Carding forum</td></tr>
@@ -19,4 +33,8 @@
 <tr><td>crdw</td><td><code>https://crdcrew.cc/</code></td><td align="center">200</td><td>Carding / crew / market</td></tr>
 <tr><td>Private Loader</td><td><code>https://privateloader.forumeiros.com/</code></td><td align="center">200</td><td>Malware / loader trade</td></tr>
 <tr><td>Darkpronet (mirror)</td><td><code>Darkpro : Carding / hacking forums</code></td><td align="center">200</td><td>Carding / market</td></tr>
-<tr><td>Leech</td><td><code>https://leech.is/</code></td><td align="center">200</td><td>Carding / underground forum</td></tr
+<tr><td>Leech</td><td><code>https://leech.is/</code></td><td align="center">200</td><td>Carding / underground forum</td></tr>
+</table>
+
+<h2>📦 About the Contributor</h2>
+<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
